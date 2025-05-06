@@ -44,4 +44,4 @@ Slicers for Year and Segment allow dynamic filtering of all visuals
 - A few products significantly outperformed others in profit contribution
 - Customer profit distribution is highly skewed—only a small group drives major gains
 ## File
-profit_dashboard.xlsx: Final interactive Excel dashboard (attached in this repository)
+[Profit_Dashboard.xlsx](./Profit_Dashboard.xlsx): Final interactive Excel dashboard.
